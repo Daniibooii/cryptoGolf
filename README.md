@@ -1,18 +1,15 @@
 # crytoGolf
-
-A game of golf, with a few twists. Play the demo! https://guarded-fortress-57011.herokuapp.com/
+A game of golf, with a few twists.<br> 
+Play the demo! https://guarded-fortress-57011.herokuapp.com/<br>
 
 ## How to Play
-
-To start, the user will select their favorite cryptocurrencies.<br>
-This will generate the ground on which the game is played;<br>
+To start, the user will select their favorite cryptocurrency.<br>
+This will perform an API call to generate the ground on which the game is played;<br>
 it might help to pray for a stable day in the crypto markets!<br>
 Then, a ball will generate for the user to hit.<br>
 From here, just aim for the hole, and swing away!<br>
 
-
 ## How to Install & Run
-
 To install,
 - clone the repo
 - run `npm install`
@@ -20,8 +17,21 @@ To install,
 To run,
 - run `npm run start`
 - in a browser, open http://localhost:3001
+<br>
+<br>
+# Project Description
+This is my personal fork of a group project.<br>
+It was demoed to a group of other programmers along with a Powerpoint Presentation;<br>
+I created it, ran the demo, and am quite pleased with how it turned out, all things considered.<br>
 
+The PPs are available for viewing here: https://docs.google.com/presentation/d/13ZuqBCF-6kWDh_LJ6N-ZTZI-vsIbP5VXtHiNx92Tfo4/edit?usp=sharing<br>
+For reference, Jared and Cris are two more experienced programmers who provided feedback.<br>
+All images used in the slides are assumed fair use/non-commercial purposes;<br>
+if alerted that any are not, they will be removed.<br>
 
+The original project README can be found directly below.<br>
+<br>
+<br>
 ## Project Description
 This project represents a group effort to create a physics-based golf game, with a twist:<br>
 the terrain is generated based on the ups and downs of the cryptocurrency market.<br>
@@ -46,13 +56,13 @@ Expertise on cryptocurrencies was provided by Tim Hill.<br>
 
 
 ## Contributors
-__Afolabi Akingbe__ - math MVP/genius; research, back-end;<br>
+__Afolabi Akingbe__ - troubleshooting/math MVP; research, back-end;<br>
 Github: https://github.com/folaakingbe<br>
 __Chandler Dibble__- project lead/organizer; research, back-end/front-end;<br>
   Github: https://github.com/Xhandler<br>
-__Tim Hill__ - lead on wireframe and user-flow; crypto expert; research, back-end;<br>
+__Tim Hill__ - cryptocurrency expert; research, initial organiziation, back-end;<br>
   Github: https://github.com/peakcodes<br>
-__Daniel Mace__ - project historian/note-taker; research, back-end/front-end;<br>
+__Daniel Mace__ - project historian/note-taker; research, back-end/front-end, PPs, Heroku;<br>
   Github: https://github.com/Daniibooii<br>
 
 ## Notes
