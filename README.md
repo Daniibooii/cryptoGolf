@@ -1,6 +1,28 @@
 # crytoGolf
 
-# Project Description
+A game of golf, with a few twists. Play the demo! https://guarded-fortress-57011.herokuapp.com/
+
+## How to Play
+
+To start, the user will select their favorite cryptocurrencies.<br>
+This will generate the ground on which the game is played;<br>
+it might help to pray for a stable day in the crypto markets!<br>
+Then, a ball will generate for the user to hit.<br>
+From here, just aim for the hole, and swing away!<br>
+
+
+## How to Install & Run
+
+To install,
+- clone the repo
+- run `npm install`
+
+To run,
+- run `npm run start`
+- in a browser, open http://localhost:3001
+
+
+## Project Description
 This project represents a group effort to create a physics-based golf game, with a twist:<br>
 the terrain is generated based on the ups and downs of the cryptocurrency market.<br>
 
@@ -22,10 +44,8 @@ The Bitfinex API was called in order to generate the ground on which golf was pl
 Each project member spent time learning how to implement Matter.js.<br>
 Expertise on cryptocurrencies was provided by Tim Hill.<br>
 
-Our project is hosted through Github Pages at: https://xhandler.github.io/cryptoGolf/,<br>
-and through Heroku at: https://guarded-fortress-57011.herokuapp.com/<br>
 
-# Contributors
+## Contributors
 __Afolabi Akingbe__ - math MVP/genius; research, back-end;<br>
 Github: https://github.com/folaakingbe<br>
 __Chandler Dibble__- project lead/organizer; research, back-end/front-end;<br>
@@ -34,17 +54,6 @@ __Tim Hill__ - lead on wireframe and user-flow; crypto expert; research, back-en
   Github: https://github.com/peakcodes<br>
 __Daniel Mace__ - project historian/note-taker; research, back-end/front-end;<br>
   Github: https://github.com/Daniibooii<br>
-
-## How to Use
-The user will need to clone a copy of our repo.<br>
-Then, he or she should open the index.html file in a browser of their choice.<br>
-The user will then play through a game of golf, with a few twists.<br>
-
-To start, the user will select their favorite cryptocurrencies.<br>
-This will generate the ground on which the game is played;<br>
-it might help to pray for a stable day in the crypto markets!<br>
-Then, a ball will generate for the user to hit.<br>
-From here, just aim for the hole, and swing away!<br>
 
 ## Notes
 Our initial project idea was gito create a Rube Goldberg game;<br>
