@@ -44,8 +44,6 @@ The Bitfinex API was called in order to generate the ground on which golf was pl
 Each project member spent time learning how to implement Matter.js.<br>
 Expertise on cryptocurrencies was provided by Tim Hill.<br>
 
-Our project is hosted through Github Pages at: https://xhandler.github.io/cryptoGolf/,<br>
-and through Heroku at:
 
 ## Contributors
 __Afolabi Akingbe__ - math MVP/genius; research, back-end;<br>
