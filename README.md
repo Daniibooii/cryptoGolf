@@ -17,8 +17,7 @@ To install,
 To run,
 - run `npm run start`
 - in a browser, open http://localhost:3001
-<br>
-<br>
+
 # Project Description
 This is my personal fork of a group project.<br>
 It was demoed to a group of other programmers along with a Powerpoint Presentation;<br>
@@ -30,8 +29,7 @@ All images used in the slides are assumed fair use/non-commercial purposes;<br>
 if alerted that any are not, they will be removed.<br>
 
 The original project README can be found directly below.<br>
-<br>
-<br>
+
 ## Project Description
 This project represents a group effort to create a physics-based golf game, with a twist:<br>
 the terrain is generated based on the ups and downs of the cryptocurrency market.<br>
