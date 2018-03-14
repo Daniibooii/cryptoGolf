@@ -1,6 +1,6 @@
 # crytoGolf
 A game of golf, with a few twists.<br> 
-Play the demo! https://guarded-fortress-57011.herokuapp.com/<br>
+Play the demo! https://crypto-golf.herokuapp.com/<br>
 
 ## How to Play
 To start, the user will select their favorite cryptocurrency.<br>
@@ -72,7 +72,7 @@ Future work on rubegoldberg, collaborative or independent, is possible.<br>
 
 ## Inspirations
 Desert Golfing served as our initial inspiration;<br>
-the idea of combining this with cryptocurrency was provided by Tim Hill.<br>
+the idea of combining this with cryptocurrency was provided by Jared Nielsen.<br>
 
 ## Resources
 Project Group's One Drive: https://onedrive.live.com/view.aspx?resid=A24E366977AFCFDC!951&app=OneNote&authkey=!ALdVeX0u2AWWcC0<br>
