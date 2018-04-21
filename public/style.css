@@ -10,11 +10,47 @@ body {
   background: radial-gradient(#C6C3C3, #434241, #0B0B0B);
 }
 
-.btn {
-  margin-left: 400px;
-  justify-content: center;
-  background-color: red;
+#btc {
+  width: 150px;
+  height: 150px;
 }
+#eth {
+  width: 150px;
+  height: 150px;
+}
+#ltc {
+  width: 150px;
+  height: 150px;
+}
+#xmr {
+  width: 150px;
+  height: 150px;
+}
+#ada {
+  width: 150px;
+  height: 150px;
+}
+#eos {
+  width: 150px;
+  height: 150px;
+}
+#xrp {
+  width: 150px;
+  height: 150px;
+}
+#xem {
+  width: 150px;
+  height: 150px;
+}
+#neo {
+  width: 150px;
+  height: 150px;
+}
+#xlm {
+  width: 150px;
+  height: 150px;
+}
+
 
 #startBtn {
   display: inline-block;

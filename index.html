@@ -8,23 +8,61 @@
   <!-- <script src="./matter-js/build/matter.js"></script> -->
   <script src="./matter-js/build/matter.js"></script>
   <link rel="stylesheet" href="./style.css">
-  <title></title>
+  <!-- Importing Google Icon Font-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- Importing materialize.css-->
+  <link type="text/css" rel="stylesheet" href="assets\css\materialize.min.css" media="screen,projection" />
+  <!-- Importing local style sheet -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CryptoGolf</title>
 </head>
 
-<body>
-  <div id="ui" class="ui">
-    <ul class="flex-container center">
-      <li id="btc" class="flex-item">BTC</li>
-      <li id="eth" class="flex-item">ETH</li>
-      <li id="ltc" class="flex-item">LTC</li>
-      <li id="xmr" class="flex-item">XMR</li>
+<link rel="icon" href="assets\images\bitcoin-basic-rounded.png">
 
-    </ul>
-    <button class="btn" id="startBtn">Select a Crypto Above, Then Click Here!</button>
-  </div>
-  <script type="text/javascript">
-    getCoin();
-  </script>
+<body>
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="assets\javascript\materialize.min.js"></script>
+  <script type="text/javascript">getCoin();</script>
+<!-- Tim's below -->
+  <main>
+
+    <div class="row">
+        <div class="col s10 offset-s1">
+            <div class="carousel" id="coin-carousel">
+
+            </div>
+        </div>
+    </div>
+      <br>
+      <div class="row">
+          <div class="col s10 offset-s1">
+              <div class="card white top-border">
+                    <button class="btn" id="startBtn">Select a Crypto Above, Then Click Here!</button>
+                  <div class="row center">
+                      <div class="col s12">
+                          <div id="gif-topics-div"></div>
+                      </div>
+                  </div>
+                  <div class="card-action">
+                      <div class="row">
+                          <div class="col s12">
+                              <div class="input-field inline">
+                                  <input id="user_search" type="text" class="validate">
+                                  <label for="user_search">Enter a new topic:</label>
+                              </div>
+                              <button class="btn waves-effect waves-light" id="user-submit-btn" type="submit" name="action">Add
+                              </button>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+
+
+  </main>
 </body>
 
 </html>

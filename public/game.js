@@ -5,6 +5,36 @@ const tFrame = ["1m", "1h", "1D"];
 let coin = null;
 let points = [];
 
+//Tim's below//
+buttonMaker: function () {
+        $("#gif-topics-div").empty();
+        for (i = 0; i < this.gifTopics.length; i++) {
+            var a = $("<button>");
+            a.addClass("waves-effect waves-light btn topic");
+            //  Adding an attribute that can be called later in an API query
+            a.attr("gif-topic-text", this.gifTopics[i]);
+            a.html(this.gifTopics[i]);
+            $("#gif-topics-div").append(a);
+            console.log('button ' + i + ' created!');
+        }
+    },
+//Tim's above//
+
+
+
+
+<button id="btc" src="assets\images\bitcoin-basic-rounded.png"></btn>
+<button id="eth" src="assets\images\ethereum-blue-rounded.png"></btn>
+<button id="ltc" src="assets\images\litecoin-fancy1-rounded.png"></btn>
+<button id="xmr" src="assets\images\monero-rounded.png"></btn>
+<button id="ada" src="assets\images\cardano-coin-rounded.png"></btn>
+<button id="eos" src="assets\images\eos-coin-rounded.png"></btn>
+<button id="xrp" src="assets\images\ripple-silver-rounded.png"></btn>
+<button id="xem" src="assets\images\nemxem-coin-rounded.png"></btn>
+<button id="neo" src="assets\images\neo-coin-rounded.png"></btn>
+<button id="xlm" src="assets\images\stellar-coin-rounded.png"></btn>
+
+
 const getCoin = () => {
 	document.getElementById("btc").addEventListener("click", () => {
 		document.getElementById("btc").style.background = "grey";

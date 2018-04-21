@@ -1,6 +1,8 @@
 # crytoGolf
-A game of golf, with a few twists.<br> 
+A game of golf, with a few twists.<br>
 Play the demo! https://guarded-fortress-57011.herokuapp.com/<br>
+
+<img src="https://github.com/Daniibooii/cryptoGolf/blob/master/assets/images/CryptoGolfPHImage.PNG"><br>
 
 ## How to Play
 To start, the user will select their favorite cryptocurrency.<br>
