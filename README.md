@@ -2,7 +2,7 @@
 A game of golf, with a few twists.<br>
 Play the demo! https://guarded-fortress-57011.herokuapp.com/<br>
 
-<img src="https://github.com/Daniibooii/cryptoGolf/blob/master/assets/images/CryptoGolfPHImage.PNG" height: 350px width: 380px><br>
+<img src="https://github.com/Daniibooii/cryptoGolf/blob/master/assets/images/CryptoGolfPHImage.PNG" height=350px width=380px><br>
 
 ## How to Play
 To start, the user will select their favorite cryptocurrency.<br>
